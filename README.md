@@ -232,15 +232,6 @@ REQUIREMENTS
 
 ---
 
-PRICING
-
-    Purchase:     $50
-    1-Year Rent:  $20
-
-Priced to be accessible. Not priced to get rich off sales.
-
----
-
 ABOUT THE AUTHOR
 
 I am a systematic trader running multiple strategies across different platforms and asset classes. This time-based breakout system is one component of a broader trading framework I am building.
